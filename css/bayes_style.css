@@ -1,0 +1,40 @@
+*
+{
+font-family: Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;}
+}
+
+h1
+{
+	font-size: 1.5em
+}
+
+h2
+{
+	font-size: 1.2em;
+}
+
+p
+{
+	font-size: 1m;
+}
+
+em
+{
+	font-size: 1em;
+	font-weight: bold;
+}
+
+strong
+{
+	font-size: 1.2em;
+}
+
+.latest_games
+{
+/*	border: 3px #2F9C32 solid*/
+}
+
+a[title="Back to intro page"]
+{
+	font-size: 0.7em;
+}

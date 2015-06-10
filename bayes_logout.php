@@ -1,0 +1,1 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html>	<head>		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">		<link rel="stylesheet" href="css/bayes_style.css" />		<title>Bayes Logout</title>	</head>		<body>		<?php			session_start();			session_destroy();			header('Location: bayes_intro.php');		?>	</body></html>
